@@ -1,0 +1,3 @@
+Address: eee Price: $8.00 Calculated insurance: $0.20
+Address: sss Price: $8.00 Calculated insurance: $0.20
+Address: eee Price: $7.00 Calculated insurance: $0.18
